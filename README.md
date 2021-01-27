@@ -91,3 +91,5 @@
 1. 将shader分离到assets文件夹中。
 2. 增加圆锥绘制。
 3. 允许绘制图形切换，便于更好的展示。
+
+![image](https://github.com/feifei2/AndroidOpenGLDemo/blob/master/SVID_20210127_204311_120211272343371.gif)
